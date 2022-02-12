@@ -1,0 +1,194 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+    padding: 50px;
+}
+
+.container_ {
+    width: 1200px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header {
+    background-color: rgb(19, 143, 128);
+    padding: 20px 0px;
+}
+
+.walogo{
+    /* padding-left: 500px; */
+    width: 180px;
+    height: auto;
+    margin-left: 350px;
+}
+
+.header_btn {
+    width: 55%;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.header_btn_ {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.introtxt {
+    width: 30%;
+    margin: auto;
+}
+
+.logos {
+    color:rgb(50, 189, 172) ;
+}
+
+.devdownlinks {
+    color:rgb(50, 189, 172) ;
+}
+
+.devdownlinks:hover {
+    text-decoration: underline;
+}
+
+.intropic {
+    width: 40%;
+    margin: auto;
+}
+
+.wabusin{
+    width: 40%;
+    margin: auto;
+}
+
+.wabusintxt {
+    /* width: 100%; */
+    background-color: #D8E8EA;
+    padding-top: 70px;
+    padding: -5px 150px; 
+}
+
+.underlinehover {
+    color: #39b3ed;
+    text-decoration: none;
+}
+
+.underlinehover:hover {
+    text-decoration: underline;
+}
+
+.wabusinimg {
+    background-color: #D8E8EA;
+    /* width: 40%; */
+    padding: 70px 90px;
+    /* margin: auto 110px; */
+}
+
+.img__ {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -70px;
+}
+
+.sec {
+    width: 40%;
+    margin: auto;
+    padding: 108px 20px;
+}
+
+.circ {
+    background-color: #77d7c8;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    padding: 140px;
+    margin-left: 50px;
+}
+
+.border {
+    background-color: #E7F0E4;
+    border: 1px solid black;
+    border-radius: 100px;
+    padding: 8px;
+    width: 80px;
+    margin-top: 15px;
+}
+
+.info {
+    padding-top: 75px;
+    color: rgb(100, 100, 100);
+    margin: auto;
+}
+
+.etee {
+    padding-left: 130px;
+}
+
+.expl {
+    border: 2px solid #77d7c8;
+    color: #128c7e;
+    border-radius: 30px;
+    padding: 15px 25px;
+}
+
+.linkswa {
+    width: 20%;
+    margin: auto;
+}
+
+.linkscomp {
+    width: 20%;
+    margin: auto;
+}
+
+.linksdown {
+    padding-bottom: 110px;
+    width: 20%;
+    margin: auto;
+}
+
+.linkshelp {
+    padding-bottom: 75px;
+    width: 20%;
+    margin: auto;
+}
+
+.endlinks {
+    text-decoration: none;
+    color: white;
+}
+.endlinks:hover {
+    text-decoration: underline;
+}
+
+.outro{
+    background-color: rgb(32, 32, 32); 
+    padding: 8px;
+    color: white;
+}
+
+.outro1 {
+    width: 25%;
+}
+
+.outro2 {
+    width: 25%;
+    margin-left: auto;
+    padding-left: 600px;
+}
+
+.pat {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
